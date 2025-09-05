@@ -14,7 +14,7 @@
         "Regina Lapate",
         "Scott T. Grafton"
     ],
-    "HowToAcknowledge": "Please cite the following: Dundon, N. M., Rizor, E., Stasiak, J., Wang, J., Sabugo, K., Villaneuva, C., Barandon, P., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of novel open loop from ventral putamen to motor areas from classic closed loop in humans II: task-based function. bioRxiv, 2024-06.",
+    "HowToAcknowledge": "Please cite the following: Rizor, E., Dundon, N. M., Wang, J., Stasiak, J., Li, T., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of putative open loop circuit from ventral putamen to motor cortical areas in humans I: high-resolution connectomics. bioRxiv, 2024.08.28.610129. https://doi.org/10.1101/2024.08.28.610129",
     "Funding": [
         "SKIP was funded in whole by Aligning Science Across Parkinson’s ASAP-020-519 through the Michael J. Fox Foundation for Parkinson’s Research (MJFF)"
     ],
@@ -26,5 +26,5 @@
         "www.socalkinesia.org",
         "https://parkinsonsroadmap.org/#"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005264.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005264.v1.0.1"
 }
