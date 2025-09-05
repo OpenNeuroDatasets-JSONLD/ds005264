@@ -5,7 +5,7 @@ The Socal Kinesia and Incentivization for Parkinson's Disease (SKIP) dataset fac
 SKIP so far contains three task-based fMRI datasets and one resting-state fMRI dataset.
 
 ### This dataset: Ultra-High Field Functional Connectivity / Network Mapping (highresFC)
-- **Description:** 21 participants undergoing ultra-high field (7T) multi-echo scans at rest.
+- **Description:** 28 participants undergoing ultra-high field (7T) multi-echo scans at rest.
   - Multi-echo imaging was used to reduce non-BOLD signals.
   - Ultra-high field imaging provides greater image resolution and reliability of functional connectivity network analyses.
   - Ideal for mapping network properties of small, deep subcortical nuclei, such as those in the basal ganglia.
@@ -25,6 +25,8 @@ For more information, please visit:
 
 ## Citation
 Please cite the following:  
+Rizor, E., Dundon, N. M., Wang, J., Stasiak, J., Li, T., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of putative open loop circuit from ventral putamen to motor cortical areas in humans I: high-resolution connectomics. bioRxiv, 2024.08.28.610129. https://doi.org/10.1101/2024.08.28.610129
+
 Dundon, N. M., Rizor, E., Stasiak, J., Wang, J., Sabugo, K., Villaneuva, C., Barandon, P., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of novel open loop from ventral putamen to motor areas from classic closed loop in humans II: task-based function. bioRxiv, 2024-06.
 
 ## other fMRI Tasks part of SKIP
