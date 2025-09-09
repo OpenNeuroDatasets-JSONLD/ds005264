@@ -1,0 +1,8 @@
+{
+    "Columns": [
+        "respiratory"
+    ],
+    "SamplingFrequency": 50.0,
+    "StartTime": -22.129,
+    "TaskName": "rest"
+}
