@@ -1,0 +1,9 @@
+{
+    "Columns": [
+        "cardiac",
+        "trigger"
+    ],
+    "SamplingFrequency": 200.0,
+    "StartTime": -23.877,
+    "TaskName": "rest"
+}
